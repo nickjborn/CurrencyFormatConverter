@@ -1,0 +1,11 @@
+D:\GrandCircus\Currency Format Converter\obj\Debug\netcoreapp2.1\Currency Format Converter.csprojAssemblyReference.cache
+D:\GrandCircus\Currency Format Converter\obj\Debug\netcoreapp2.1\Currency Format Converter.csproj.CoreCompileInputs.cache
+D:\GrandCircus\Currency Format Converter\obj\Debug\netcoreapp2.1\Currency Format Converter.AssemblyInfoInputs.cache
+D:\GrandCircus\Currency Format Converter\obj\Debug\netcoreapp2.1\Currency Format Converter.AssemblyInfo.cs
+D:\GrandCircus\Currency Format Converter\bin\Debug\netcoreapp2.1\Currency Format Converter.deps.json
+D:\GrandCircus\Currency Format Converter\bin\Debug\netcoreapp2.1\Currency Format Converter.runtimeconfig.json
+D:\GrandCircus\Currency Format Converter\bin\Debug\netcoreapp2.1\Currency Format Converter.runtimeconfig.dev.json
+D:\GrandCircus\Currency Format Converter\bin\Debug\netcoreapp2.1\Currency Format Converter.dll
+D:\GrandCircus\Currency Format Converter\bin\Debug\netcoreapp2.1\Currency Format Converter.pdb
+D:\GrandCircus\Currency Format Converter\obj\Debug\netcoreapp2.1\Currency Format Converter.dll
+D:\GrandCircus\Currency Format Converter\obj\Debug\netcoreapp2.1\Currency Format Converter.pdb
